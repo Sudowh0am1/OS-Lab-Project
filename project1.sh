@@ -1,6 +1,5 @@
 #!/bin/bash
 # Project 1 - OS Lab
-# by : arefeh ataei, nazanin valaee & faezeh khadem
 
 
 system_general_information(){
